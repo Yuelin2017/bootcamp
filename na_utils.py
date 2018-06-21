@@ -2,7 +2,9 @@
 Utilities for parsing nucleic acid sequences.
 """
 
+
 def dna_to_rna(seq):
+
     """
     Convert a DNA sequence to RNA.
     """
